@@ -1,1 +1,2 @@
 File2 contents goes here
+new line added
